@@ -1,1 +1,2 @@
 Sample file of project1
+Second line is added here
